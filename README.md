@@ -19,7 +19,7 @@
 
 
 ## 四、流程图 
-![text]()
+![text](https://github.com/P00718/TR/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 
 
 
